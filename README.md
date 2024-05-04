@@ -1,2 +1,2 @@
 # Autonomous-Shoe-Spotter
-Solution for retail inventory
+An Autonomous Solution for retail inventory
