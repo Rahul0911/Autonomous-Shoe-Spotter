@@ -4,4 +4,5 @@ socftmoc_data_resized/
 sample_data/
 softmoc_data_resized/
 annotated_data/
-annotated_split_data/
+annotated_train_test_val/
+annotated_train_test/
