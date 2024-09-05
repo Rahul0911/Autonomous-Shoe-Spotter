@@ -3,7 +3,10 @@ softmoc_data/
 softmoc_data_resized/
 sample_data/
 annotated_data/
-annotated_train_test_val/
 Yolo_dataset/
+Yolov8_data/
+Drive_colab/
+Drive_colab.rar/
+runs/
 Yolo_dataset.rar/
 Models_and_notebooks/
